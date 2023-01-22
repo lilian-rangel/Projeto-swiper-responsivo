@@ -19,7 +19,7 @@ O objetivo é aprender a lidar melhor com a API do SWiper JS e deixá-lo respons
 <h2 align="center"> Prints do projeto </h2>
 <br />
 
-<img width="100%" align="center" src="assets/images/print.jpg">
+<img width="100%" align="center" src="images/print.jpg">
 
 
 <hr>
